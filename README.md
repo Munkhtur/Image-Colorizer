@@ -1,5 +1,3 @@
-#Read me
-
 Following files are not included in the repositry:
 
 - colorization_deploy_v2.prototxt
